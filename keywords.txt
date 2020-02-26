@@ -1,0 +1,19 @@
+##################################
+    Syntax Map Sonic
+    by Michael Fletcher
+    github: @
+##################################
+
+Datatypes (KEYWORD1)
+##################################
+Sonic           KEYWORD1
+##################################
+Methods and Functions (KEYWORD2)
+##################################
+read            KEYWORD2
+distanceRead    KEYWORD2
+##################################
+Constants (LITERAL1)
+##################################
+CM LITERAL1     Constants
+IN LITERAL1     Constants
