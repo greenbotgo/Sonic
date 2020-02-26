@@ -1,5 +1,7 @@
 #include <Sonic.h>
 
+//Declare Sonic object. 
+//Sonic sonic(<Trigger pin>, <Echo pin>, <Timeout>);
 Sonic sonic(7,8);
 
 void setup() {
